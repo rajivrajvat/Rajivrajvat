@@ -23,11 +23,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/pnp/sp-dev-fx-controls-react/master/assets/sharepoint.png" alt="sharepoint" width="45" height="45"/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/sk-2019/Power-Platform-Icons/master/Power%20Apps/Power%20Apps.svg" alt="powerapps" width="45" height="45"/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/sk-2019/Power-Platform-Icons/master/Power%20Automate/Power%20Automate.svg" alt="powerautomate" width="45" height="45"/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/sk-2019/Power-Platform-Icons/master/Power%20BI/Power%20BI.svg" alt="powerbi" width="45" height="45"/> </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
