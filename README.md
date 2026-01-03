@@ -1,6 +1,6 @@
 ![LOGO](https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/spb.jpg)
-<h1 align="center">Hi 👋, I'm RAJIV RAJVAT</h1>
-<h3 align="center">A passionate & Seasoned SharePoint developer from India</h3>
+<h1 align="center">Hi 👋, I'm RAJIV KUMAR</h1>
+<h3 align="center">A passionate & Seasoned SharePoint & Power Platform developer from India</h3>
 <img align="right" alt="Coding" width="400" hight="100" src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivkrrao&label=Profile%20views&color=0e75b6&style=flat" alt="rajivkrrao" /> </p>
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajivspo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajivkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajivai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajivkumar" height="30" width="40" /></a>
+<a href="https://x.com/Rajiv1kumaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajivkumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajivkumar365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajivkumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
