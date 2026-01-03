@@ -1,28 +1,24 @@
-![LOGO](https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/spb.jpg)
-<h1 align="center">Hi 👋, I'm RAJIV KUMAR</h1>
-<h3 align="center">A passionate & Seasoned SharePoint & Power Platform developer from India</h3>
-<img align="right" alt="Coding" width="400" hight="100" src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/mw.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivkrrao&label=Profile%20views&color=0e75b6&style=flat" alt="rajivkrrao" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rajivrajvat" target="blank"><img src="https://img.shields.io/twitter/follow/rajivrajvat?logo=twitter&style=for-the-badge" alt="rajivrajvat" /></a> </p>
-
-- 🔭 I’m currently working on  **SharePoint & Power Platform **
-
-- 🌱 I'm currently expanding my knowledge of **SharePoint Frameworks [SPFx] and Coponent PowerApps Framework [CPF]**
-
-- 📝 I regularly contribute articles to my blog **CorporateCodeCorner.blogspot.com**
-- 💬 Ask me about **SharePoint & Power Platform**
-
-- 📫 How to reach me **Rajvatrajiv@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Rajiv1kumaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajivkumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rajivkumar365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajivkumar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/spb.jpg" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rajivkumar365/" target="_blank">RAJIV KUMAR</a></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=SharePoint+Architect;Power+Platform+Expert;M365+Developer;SPFx+%26+PCF+Enthusiast" alt="Typing SVG" />
+</p>
+
+<img align="right" alt="Coding" width="350" src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/mw.gif">
+
+### 👨‍💻 About Me
+- 🔭 **Working on:** Advanced SharePoint & Power Platform Solutions.
+- 🌱 **Learning:** SharePoint Framework (SPFx) and PowerApps Component Framework (PCF).
+- 📝 **Blogging:** Expert insights at [CorporateCodeCorner](http://CorporateCodeCorner.blogspot.com).
+- 💬 **Expertise:** Ask me about SharePoint, Power Automate, Power Apps & Power BI.
+- 📫 **Contact:** [Rajvatrajiv@gmail.com](mailto:Rajvatrajiv@gmail.com)
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white" />
@@ -31,15 +27,33 @@
 </p>
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> </a>
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/> </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
-</br>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajivkrrao&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rajiv's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivkrrao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajivkrrao&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://twitter.com/rajivrajvat" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rajivkumar365/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Rajiv1kumaar" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
