@@ -12,9 +12,9 @@
 ### 👨‍💻 About Me
 - 🔭 **Working on:** Advanced SharePoint & Power Platform Solutions.
 - 🌱 **Learning:** SharePoint Framework (SPFx) and PowerApps Component Framework (PCF).
-- 📝 **Blogging:** Expert insights at [CorporateCodeCorner](http://CorporateCodeCorner.blogspot.com).
+- 📝 **Blogging:** Expert insights at [MS365](https://www.ms365.in/).
 - 💬 **Expertise:** Ask me about SharePoint, Power Automate, Power Apps & Power BI.
-- 📫 **Contact:** [Rajvatrajiv@gmail.com](mailto:Rajvatrajiv@gmail.com)
+- 📫 **Contact:** [kumarrajiv429@gmail.com](mailto:Kumarrajiv429@gmail.com)
 
 ---
 
@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,dotnet,azure,sqlserver,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,dotnet,azure,mssql,postman,docker" />
 </p>
 
 ---
@@ -46,6 +46,6 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://twitter.com/rajivrajvat" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/Rajiv1kumaar" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rajivkumar365/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
