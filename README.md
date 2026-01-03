@@ -22,8 +22,12 @@
 <a href="https://www.linkedin.com/in/rajivkumar365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajivkumar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/pnp/sp-dev-fx-controls-react/master/assets/sharepoint.png" alt="sharepoint" width="45" height="45"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/sk-2019/Power-Platform-Icons/master/Power%20Apps/Power%20Apps.svg" alt="powerapps" width="45" height="45"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/sk-2019/Power-Platform-Icons/master/Power%20Automate/Power%20Automate.svg" alt="powerautomate" width="45" height="45"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/sk-2019/Power-Platform-Icons/master/Power%20BI/Power%20BI.svg" alt="powerbi" width="45" height="45"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
