@@ -1,51 +1,85 @@
-<p align="center">
-  <img src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/spb.jpg?raw=true" width="100%" alt="Header Banner" />
-</p>
+# Rajiv Kumar Rajavt
+**Technical Lead | Microsoft Technology Leader | Solution Architect**
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rajivkumar365/" target="_blank">RAJIV KUMAR</a></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=SharePoint+Architect;Power+Platform+Expert;M365+Developer;SPFx+%26+PCF+Enthusiast" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="Coding" width="350" src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/mw.gif?raw=true">
-
-### 👨‍💻 About Me
-- 🔭 **Working on:** Advanced SharePoint & Power Platform Solutions.
-- 🌱 **Learning:** SharePoint Framework (SPFx) and PowerApps Component Framework (PCF).
-- 📝 **Blogging:** Expert insights at [MS365](https://www.ms365.in/).
-- 💬 **Expertise:** Ask me about SharePoint, Power Automate, Power Apps & Power BI.
-- 📫 **Contact:** [kumarrajiv429@gmail.com](mailto:Kumarrajiv429@gmail.com)
+*Architecting resilient, scalable enterprise solutions within the Microsoft ecosystem.*
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
+## 🏢 Executive Summary
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,dotnet,azure,mssql,postman,docker" />
-</p>
+I am a Technical Lead and Solution Architect with over 9 years of overall engineering experience, including 6+ years specializing strictly in Microsoft Technologies. I build enterprise-grade architectures that solve complex business challenges, focusing on scale, security, and maintainability. My approach bridges deep technical execution with strategic business alignment. 
+
+I do not simply write code; I design production-ready enterprise workflows, orchestrate seamless migrations, and implement transformative AI-driven solutions using the modern Microsoft stack.
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivkrrao&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivkrrao&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajivkrrao&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
-</p>
+- **Enterprise Microsoft Solutions:** Designing resilient architectures for large-scale deployments.
+- **AI & Modern Workplace:** Integrating Copilot and Generative AI into enterprise workflows.
+- **Automation at Scale:** Advanced Power Automate and PowerShell governance.
+- **Knowledge Sharing:** Authoring premium technical guides on [MS365.in](https://www.ms365.in).
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://x.com/Rajiv1kumaar" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rajivkumar365/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## 💻 Technical Expertise
+
+**Microsoft 365 & Architecture**
+`Microsoft 365` `SharePoint Online` `SharePoint Server` `Solution Architecture` `Enterprise Integration`
+
+**Power Platform & Data**
+`Power Platform` `Power Apps` `Power Automate` `Power BI` `Dataverse`
+
+**Cloud, AI & Development**
+`Azure` `Microsoft Graph` `SPFx` `PowerShell` `Copilot` `Automation`
+
+---
+
+## 🚀 Featured Projects
+
+> *Note: Many of my enterprise projects are closed-source due to NDA and corporate confidentiality. Below represents my open-source and community contributions.*
+
+### [Enterprise Governance Scripts](https://github.com/Rajiv1kumar)
+**Technology:** PowerShell, Microsoft Graph API  
+**Purpose:** A comprehensive suite of automation scripts for tenant-level governance, bulk administration, and deployment pipeline optimization.
+
+### [SPFx Advanced Web Parts](https://github.com/Rajiv1kumar)
+**Technology:** TypeScript, React, SPFx, Microsoft Graph  
+**Purpose:** High-performance, scalable web parts designed for modern SharePoint intranets with complex data aggregation requirements.
+
+*(Placeholder for future enterprise-grade open source releases)*
+
+---
+
+## 📝 Technical Writing & Publications
+
+I am the founder and lead author of **[MS365.in](https://www.ms365.in)**, a premium technical publication focused on real-world implementations, architecture blueprints, and production solutions.
+
+**Recent Focus Areas:**
+- 🏗️ **Architecture Guides:** Scalable tenant designs and security implementations.
+- ⚙️ **Power Platform:** Complex business application pipelines and Dataverse integration.
+- ☁️ **Azure & AI:** Leveraging Copilot Studio and Cloud infrastructure for the modern workplace.
+
+---
+
+## 🏆 Certifications & Education
+
+**Certifications:**
+- 🏅 **3× Microsoft Certified Professional**
+
+**Education:**
+- 🎓 **MBA in Generative AI & Product Management** — Indian Institute of Technology (IIT) Patna
+
+---
+
+## 📊 GitHub Analytics
+
+![Rajiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajivrajvat&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+---
+
+## 🌐 Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-MS365.in-0078D4?style=for-the-badge&logo=microsoft)](https://www.ms365.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajivkumar365/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:Kumarrajiv429@gmail.com)
