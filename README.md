@@ -1,4 +1,4 @@
-# Rajiv Kumar Rajavt
+# Rajiv Kumar
 **Technical Lead | Microsoft Technology Leader | Solution Architect**
 
 *Architecting resilient, scalable enterprise solutions within the Microsoft ecosystem.*
