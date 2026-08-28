@@ -10,7 +10,7 @@
 
 ### I turn enterprise business problems into governed, automated systems — architecture first, then the engineering to prove it works in production.
 
-<sub>Nine years in enterprise IT. Six specialising in Microsoft 365, SharePoint, Power Platform, Azure and applied AI.<br/>I design the solution, and I build it.</sub>
+
 
 <br/>
 
@@ -19,17 +19,6 @@
 [![MS365.in](https://img.shields.io/badge/MS365.in-Writing-2E7D9A?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0D1117)](https://ms365.in)
 
 <br/>
-
-<table>
-<tr>
-<td align="center" width="160"><h2>09+</h2><sub>YEARS<br/>ENTERPRISE IT</sub></td>
-<td align="center" width="160"><h2>06+</h2><sub>YEARS MICROSOFT<br/>SPECIALISATION</sub></td>
-<td align="center" width="160"><h2>06</h2><sub>MICROSOFT<br/>CERTIFICATIONS</sub></td>
-<td align="center" width="160"><h2>18+</h2><sub>ENTERPRISE<br/>PROJECTS</sub></td>
-</tr>
-</table>
-
-<sub>Technical Lead at Coforge Ltd &nbsp;·&nbsp; New Delhi, India</sub>
 
 <br/>
 
